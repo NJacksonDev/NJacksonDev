@@ -4,8 +4,6 @@ Hi 👋 My name is Nick Jackson
 Software Engineer
 -----------------
 
-* 🌍  I'm based in South Florida
-
 ### Skills
 
 
