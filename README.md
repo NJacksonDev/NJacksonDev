@@ -1,4 +1,4 @@
-Hi 👋 My name is Nick Jackson
+Hi 👋 My name is Nick
 =============================
 
 Software Engineer
